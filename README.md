@@ -1,4 +1,4 @@
-MOODLE FOR IONOS HOSTING
+# Moodle for IONOS hosting
 
 Moodle patch for installation on the IONOS hosting. www.ionos.de - the most popular hosting in Germany.  The default Moodle cannot work on IONOS hosting, because the system paths do not match. It needs to be replaced. 
 
